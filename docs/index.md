@@ -13,7 +13,7 @@ hello
 - [xf8b](https://github.com/xf8b), founder and main maintainer of HealthMod
 - [AG6](https://github.com/zAG6z/), developer of HealthMod
 - [LoneWolf](https://github.com/BHLoneWolf0/), developer of HealthMod
-- [ilja615](https://github.com/ilja615/), texture creator
+- [ilja615](https://github.com/ilja615/), texture creator for HealthMod
 - [PTZ](https://github.com/PTZ8/), developer of HealthMod
 
 ## Mods
