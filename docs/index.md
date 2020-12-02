@@ -19,7 +19,7 @@ hello
 
 ## Notable People
 
-- [Secnyt](https://github.com/secnyt/), the person who created the idea for this mod
+- [Secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
 
 ## Mods
 
