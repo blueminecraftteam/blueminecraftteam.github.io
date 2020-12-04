@@ -11,7 +11,7 @@ hello
 ## Members
 
 - [xf8b](https://github.com/xf8b), founder and main maintainer of HealthMod Forge and Fabric
-- [AG6](https://github.com/zAG6z/), developer of HealthMod Forge
+- [AG6](https://github.com/zAG6z/), developer of HealthMod Fabric and Forge
 - [LoneWolf](https://github.com/BHLoneWolf0/), developer of HealthMod Forge
 - [ilja615](https://github.com/ilja615/), texture creator for HealthMod
 - [PTZ](https://github.com/PTZ8/), developer of HealthMod Forge
@@ -23,4 +23,4 @@ hello
 
 ## Mods
 
-- [HealthMod](https://github.com/blueminecraftteam/HealthMod), currently in alpha
+- [HealthMod](https://github.com/blueminecraftteam/HealthMod), currently in alpha, for Forge and Fabric 1.16.4
