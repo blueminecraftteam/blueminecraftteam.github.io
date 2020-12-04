@@ -23,4 +23,6 @@ hello
 
 ## Mods
 
-- [HealthMod](https://github.com/blueminecraftteam/HealthMod), currently in alpha, for Forge and Fabric 1.16.4
+- HealthMod, currently in alpha, for Forge and Fabric 1.16.4
+  - [Fabric](https://github.com/blueminecraftteam/healthmod-fabric)
+  - [Forge](https://github.com/blueminecraftteam/healthmod-forge)
