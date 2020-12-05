@@ -10,12 +10,25 @@ hello
 
 ## Members
 
-- [xf8b](https://github.com/xf8b), founder and main maintainer of HealthMod Forge and Fabric
-- [AG6](https://github.com/zAG6z/), developer of HealthMod Fabric and Forge
-- [LoneWolf](https://github.com/BHLoneWolf0/), developer of HealthMod Forge
-- [ilja615](https://github.com/ilja615/), texture creator for HealthMod
-- [PTZ](https://github.com/PTZ8/), developer of HealthMod Forge
-- [saksham4106](https://github.com/saksham4106/), developer of HealthMod Forge
+- [xf8b](https://github.com/xf8b)
+  - founder
+  - main maintainer of HealthMod Fabric
+  - main maintainer of HealthMod Forge
+- [AG6](https://github.com/zAG6z/)
+  - developer of HealthMod Fabric
+  - developer of HealthMod Forge
+- [LoneWolf](https://github.com/BHLoneWolf0/)
+  - developer of HealthMod Forge
+- [ilja615](https://github.com/ilja615/)
+  - texture creator for HealthMod
+- [PTZ](https://github.com/PTZ8/)
+  - developer of HealthMod Forge
+  - website maintainer
+- [saksham4106](https://github.com/saksham4106/)
+  - developer of HealthMod Forge
+  - texture creator for HealthMod
+- [secnyt](https://github.com/secnyt/)
+  - texture creator for HealthMod
 
 ## Notable People
 
