@@ -13,10 +13,10 @@ hello
 - [xf8b](https://github.com/xf8b)
   - founder
   - main maintainer of HealthMod Fabric
-  - main maintainer of HealthMod Forge
+  - developer of HealthMod Forge
 - [AG6](https://github.com/zAG6z/)
   - developer of HealthMod Fabric
-  - developer of HealthMod Forge
+  - main maintainer of HealthMod Forge
 - [LoneWolf](https://github.com/BHLoneWolf0/)
   - developer of HealthMod Forge
 - [ilja615](https://github.com/ilja615/)
