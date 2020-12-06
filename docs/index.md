@@ -15,8 +15,8 @@ hello
   - main maintainer of HealthMod Fabric
   - developer of HealthMod Forge
 - [AG6](https://github.com/zAG6z/)
-  - developer of HealthMod Fabric
   - main maintainer of HealthMod Forge
+  - developer of HealthMod Fabric
 - [LoneWolf](https://github.com/BHLoneWolf0/)
   - developer of HealthMod Forge
 - [ilja615](https://github.com/ilja615/)
@@ -28,6 +28,7 @@ hello
   - developer of HealthMod Forge
   - texture creator for HealthMod
 - [secnyt](https://github.com/secnyt/)
+  - developer of HealthMod Fabric
   - texture creator for HealthMod
 - [ItalianCucumber](https://github.com/ItalianCucumber/)
   - texture creator for HealthMod
@@ -35,7 +36,7 @@ hello
 
 ## Notable People
 
-- [Secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
+- [secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
 
 ## Mods
 
