@@ -29,6 +29,8 @@ hello
   - texture creator for HealthMod
 - [secnyt](https://github.com/secnyt/)
   - texture creator for HealthMod
+- [ItalianCucumber](https://github.com/ItalianCucumber/)
+  - texture creator for HealthMod
 
 ## Notable People
 
