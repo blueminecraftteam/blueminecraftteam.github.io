@@ -17,6 +17,7 @@ hello
 - [AG6](https://github.com/zAG6z/)
   - main maintainer of HealthMod Forge
   - developer of HealthMod Fabric
+  - translator for HealthMod
 - [LoneWolf](https://github.com/BHLoneWolf0/)
   - developer of HealthMod Forge
 - [ilja615](https://github.com/ilja615/)
