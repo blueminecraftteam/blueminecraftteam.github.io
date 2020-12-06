@@ -31,6 +31,7 @@ hello
   - texture creator for HealthMod
 - [ItalianCucumber](https://github.com/ItalianCucumber/)
   - texture creator for HealthMod
+  - translator for HealthMod
 
 ## Notable People
 
