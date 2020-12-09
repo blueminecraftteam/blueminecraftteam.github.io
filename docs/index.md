@@ -34,6 +34,10 @@ hello
 - [ItalianCucumber](https://github.com/ItalianCucumber/)
   - texture creator for HealthMod
   - translator for HealthMod
+- [TsundereSenpai](https://github.com/TsundereSenpai/)
+  - translator for HealthMod
+- [TheOnlyTails](https://github.com/TheOnlyTails/)
+  - translator for HealthMod
 
 ## Notable People
 
