@@ -37,6 +37,7 @@ hello
 - [TsundereSenpai](https://github.com/TsundereSenpai/)
   - translator for HealthMod
 - [TheOnlyTails](https://github.com/TheOnlyTails/)
+  - developer of HealthMod Forge
   - translator for HealthMod
 
 ## Notable People
