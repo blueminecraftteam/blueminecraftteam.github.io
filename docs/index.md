@@ -39,10 +39,13 @@ hello
 - [TheOnlyTails](https://github.com/TheOnlyTails/)
   - developer of HealthMod Forge
   - translator for HealthMod
+- [HigherLight](https://github.com/HigherLight/)
+  - texture creator for HealthMod
 
 ## Notable People
 
 - [secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
+- [xf8b](https://github.com/xf8b/), the person who started HealthMod
 
 ## Mods
 
