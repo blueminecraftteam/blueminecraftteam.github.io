@@ -41,6 +41,8 @@ hello
   - translator for HealthMod
 - [HigherLight](https://github.com/HigherLight/)
   - texture creator for HealthMod
+  - translator for HealthMod
+  - play tester for HealthMod
 
 ## Notable People
 
