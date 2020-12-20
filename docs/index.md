@@ -17,7 +17,6 @@ hello
 - [AG6](https://github.com/zAG6z/)
   - main maintainer of HealthMod Forge
   - developer of HealthMod Fabric
-  - translator for HealthMod
 - [LoneWolf](https://github.com/BHLoneWolf0/)
   - developer of HealthMod Forge
 - [ilja615](https://github.com/ilja615/)
@@ -25,20 +24,21 @@ hello
 - [PTZ](https://github.com/PTZ8/)
   - developer of HealthMod Forge
   - website maintainer
-- [saksham4106](https://github.com/saksham4106/)
+- [Saksham4106](https://github.com/saksham4106/)
   - developer of HealthMod Forge
   - texture creator for HealthMod
-- [secnyt](https://github.com/secnyt/)
+- [Secnyt](https://github.com/secnyt/)
   - developer of HealthMod Fabric
   - texture creator for HealthMod
 - [ItalianCucumber](https://github.com/ItalianCucumber/)
   - texture creator for HealthMod
   - translator for HealthMod
-- [TsundereSenpai](https://github.com/TsundereSenpai/)
+- [sin(π)](https://github.com/TsundereSenpai/)
   - translator for HealthMod
 - [TheOnlyTails](https://github.com/TheOnlyTails/)
   - developer of HealthMod Forge
   - translator for HealthMod
+  - website maintainer
 - [HigherLight](https://github.com/HigherLight/)
   - texture creator for HealthMod
   - translator for HealthMod
@@ -46,7 +46,7 @@ hello
 
 ## Notable People
 
-- [secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
+- [Secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
 - [xf8b](https://github.com/xf8b/), the person who started HealthMod
 
 ## Mods
