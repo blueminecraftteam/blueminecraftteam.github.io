@@ -43,6 +43,8 @@ hello
   - texture creator for HealthMod
   - translator for HealthMod
   - play tester for HealthMod
+- [BioAst](https://github.com/bioastroiner/)
+  - developer of HealthMod Forge
 
 ## Notable People
 
