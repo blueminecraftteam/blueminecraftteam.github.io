@@ -45,6 +45,8 @@ hello
   - play tester for HealthMod
 - [BioAst](https://github.com/bioastroiner/)
   - developer of HealthMod Forge
+- [brammie15](https://github.com/brammie15/)
+  - translator for HealthMod
 
 ## Notable People
 
