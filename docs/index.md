@@ -47,6 +47,8 @@ hello
   - developer of HealthMod Forge
 - [brammie15](https://github.com/brammie15/)
   - translator for HealthMod
+- [Realz](https://github.com/KingRealzYT/)
+  - play tester for HealthMod
 
 ## Notable People
 
