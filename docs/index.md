@@ -48,4 +48,4 @@ hello
 
 - HealthMod, currently in alpha, for Forge and Fabric 1.16.4
   - [Fabric](https://github.com/teambluemods/healthmod-fabric)
-  - [Forge](https://github.com/teamblue/healthmmodsod-forge)
+  - [Forge](https://github.com/teambluemods/healthmod-forge)
