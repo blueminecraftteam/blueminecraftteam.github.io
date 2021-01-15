@@ -4,8 +4,6 @@ title: Homepage
 permalink: /
 ---
 
-# Blue Minecraft Team Website
-
 hello
 
 ## Members
@@ -17,13 +15,8 @@ hello
 - [AG6](https://github.com/zAG6z/)
   - main maintainer of HealthMod Forge
   - developer of HealthMod Fabric
-- [LoneWolf](https://github.com/BHLoneWolf0/)
-  - developer of HealthMod Forge
 - [ilja615](https://github.com/ilja615/)
   - texture creator for HealthMod
-- [PTZ](https://github.com/PTZ8/)
-  - developer of HealthMod Forge
-  - website maintainer
 - [Saksham4106](https://github.com/saksham4106/)
   - developer of HealthMod Forge
   - texture creator for HealthMod
@@ -32,8 +25,6 @@ hello
   - texture creator for HealthMod
 - [ItalianCucumber](https://github.com/ItalianCucumber/)
   - texture creator for HealthMod
-  - translator for HealthMod
-- [sin(π)](https://github.com/TsundereSenpai/)
   - translator for HealthMod
 - [TheOnlyTails](https://github.com/TheOnlyTails/)
   - developer of HealthMod Forge
@@ -45,8 +36,6 @@ hello
   - play tester for HealthMod
 - [BioAst](https://github.com/bioastroiner/)
   - developer of HealthMod Forge
-- [brammie15](https://github.com/brammie15/)
-  - translator for HealthMod
 - [Realz](https://github.com/KingRealzYT/)
   - play tester for HealthMod
 
@@ -58,5 +47,5 @@ hello
 ## Mods
 
 - HealthMod, currently in alpha, for Forge and Fabric 1.16.4
-  - [Fabric](https://github.com/blueminecraftteam/healthmod-fabric)
-  - [Forge](https://github.com/blueminecraftteam/healthmod-forge)
+  - [Fabric](https://github.com/teambluemods/healthmod-fabric)
+  - [Forge](https://github.com/teamblue/healthmmodsod-forge)
