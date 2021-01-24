@@ -15,8 +15,6 @@ hello
 - [AG6](https://github.com/zAG6z/)
   - main maintainer of HealthMod Forge
   - developer of HealthMod Fabric
-- [ilja615](https://github.com/ilja615/)
-  - texture creator for HealthMod
 - [Saksham4106](https://github.com/saksham4106/)
   - developer of HealthMod Forge
   - texture creator for HealthMod
