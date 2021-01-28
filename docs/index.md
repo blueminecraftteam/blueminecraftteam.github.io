@@ -42,6 +42,10 @@ hello
 - [Secnyt](https://github.com/secnyt/), the person who created the idea for HealthMod
 - [xf8b](https://github.com/xf8b/), the person who started HealthMod
 
+## Discord
+
+The official Team Blue Discord server is located [here](https://discord.gg/VvB7zx2rvU).
+
 ## Mods
 
 - HealthMod, currently in alpha, for Forge and Fabric 1.16.4
