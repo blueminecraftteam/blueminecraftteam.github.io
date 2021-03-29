@@ -12,7 +12,7 @@ hello
   - founder
   - main maintainer of HealthMod Fabric
   - developer of HealthMod Forge
-- [AG6](https://github.com/zAG6z/)
+- [AG6](https://github.com/wideAG6/)
   - main maintainer of HealthMod Forge
   - developer of HealthMod Fabric
 - [Saksham4106](https://github.com/saksham4106/)
