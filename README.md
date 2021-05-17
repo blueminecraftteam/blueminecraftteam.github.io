@@ -2,6 +2,10 @@
 
 GitHub Pages for our useless website.
 
+# Mainted By
+
+This website is Mainted and Being Developed by Realz
+
 ## Notes
 
 - Yes this is copied from <https://github.com/xf8b/xf8b.github.io/>
