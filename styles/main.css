@@ -3,11 +3,13 @@ body {
     color: #1cdc9a;
     font-family: "JetBrains Mono", monospace;
     font-size: 16px;
+    position: static;
 }
 
 h1, h2, h3, h4, h5, h6 {
     background-color: #232627;
     color: #3da8c8;
+    text-align: center;
 }
 
 .title {
@@ -20,6 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
+    width: 100%;
     background: #1cdc9a;
 }
 
@@ -43,7 +46,6 @@ nav li {
     display: inline-block;
     margin: 0 35px;
     padding: 10px 0;
-
     position: relative;
 }
 
@@ -72,4 +74,63 @@ nav a::before {
 
 nav a:hover::before {
     width: 100%;
+}
+
+.icon {
+    width: 13px;
+    height: 13px;
+    margin-right: 5px;
+}
+
+copyright {
+    color: rgb(167, 167, 167);
+    font-size: 12px;
+    font-family: "Open Sans";
+}
+
+.text-link {
+    color: rgb(209, 209, 209);
+}
+.text-link:hover {
+    color: rgb(243, 243, 243);
+    transition: color 0.5s;
+}
+
+.subtitle {
+    color:#64bdf1;
+    font-size: 25px;
+}
+
+.subtitle a {
+    color: #64bdf1;
+}
+
+.subtitle a:hover {
+    color: #7bcfff;
+    transition: color 0.2s;
+}
+
+.text {
+    text-align: left;
+}
+
+/* Colors for Members */
+purple {
+    color: rgb(140, 51, 255);
+}
+orange {
+    color: rgb(248, 142, 3);
+}
+red {
+    color: rgb(179, 77, 77);
+}
+gold {
+    color: rgb(255, 219, 17);
+}
+blue {
+    color: rgb(29, 133, 230);
+}
+
+select-right {
+    color: rgb(141, 211, 238);
 }
