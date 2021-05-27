@@ -2,13 +2,15 @@
 
 GitHub Pages for our useless website.
 
-# Mainted By
+## Maintenence Crew
 
-This website is Mainted and Being Developed by Realz
+- [xf8b](https://github.com/xf8b/)
+- [Realz](https://github.com/KingRealzYT)
+- [HigherLight](https://github.com/HigherLightStudio)
 
 ## Notes
 
-- Yes this is copied from <https://github.com/xf8b/xf8b.github.io/>
+- Yes this is partially copied from <https://github.com/xf8b/xf8b.github.io/>
 - Yes I'm lazy
 - No this is not copyright infringement
 
