@@ -16,14 +16,15 @@ GitHub Pages for our useless website.
 
 ## License
 
-<p>
-    <a property="dct:title" rel="cc:attributionURL" href="https://ruedevelopment.github.io/">The RUE Development website</a>
-    by
-    <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/ruedevelopment/">RUE Development</a>
-    is licensed under
-    <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0
-        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC symbol" width="22" height="22">
-        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Attribution symbol" width="22" height="22">
-        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="ShareAlike symbol" width="22" height="22">
-    </a>
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher" href="https://github.com/ruedevelopment/">
+    <span property="dct:title">RUE Development</span>
+  </a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">ruedevelopment.github.io</span>.
 </p>
